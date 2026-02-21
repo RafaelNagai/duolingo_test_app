@@ -53,6 +53,7 @@ Examples: `auth`, `image-description`, `core`, `router`, `riverpod`, `di`
 - If there's a breaking change, add `BREAKING CHANGE:` in the footer
 - If files from multiple features changed, omit scope
 - No Co-Authored-By in the commit
+- separate in many commits if necessary to ensure that each commit is related by contexts
 
 ### Flutter-specific notes
 - Adding a new package to `pubspec.yaml` → `chore(deps): add <package>`
