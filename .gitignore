@@ -1,3 +1,10 @@
+# Secrets
+.env
+.env.local
+
+# IDE - keep settings but ignore sensitive launch configs with secrets
+.vscode/launch.json
+
 # Miscellaneous
 *.class
 *.lock
