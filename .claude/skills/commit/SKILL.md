@@ -52,6 +52,7 @@ Examples: `auth`, `image-description`, `core`, `router`, `riverpod`, `di`
 - Body: explain *why*, not *what* (the diff already shows what)
 - If there's a breaking change, add `BREAKING CHANGE:` in the footer
 - If files from multiple features changed, omit scope
+- No Co-Authored-By in the commit
 
 ### Flutter-specific notes
 - Adding a new package to `pubspec.yaml` → `chore(deps): add <package>`
